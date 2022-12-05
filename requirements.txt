@@ -1,0 +1,5 @@
+openpyxl==3.0.10
+bs4==0.0.1
+webdriver-manager==3.8.4
+selenium
+lxml
